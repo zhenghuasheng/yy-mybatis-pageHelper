@@ -1,7 +1,7 @@
 # yy-mybatis-pageHelper
 mybatis pageHelper demo
 
-²Î¿´×ÊÁÏ£º
+å‚è€ƒæ–‡æ¡£:
 
 http://www.oschina.net/news/79808/mybatis-page-helper-4-2-0
 
